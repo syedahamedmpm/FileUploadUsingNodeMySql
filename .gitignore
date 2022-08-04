@@ -2,3 +2,5 @@
 .env
 */build
 BackEnd/uploads
+
+package-lock.json
